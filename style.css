@@ -1,0 +1,58 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: helvetica, arial, sans-serif;
+  margin: 2em;
+  background: #fff url(https://cdn.glitch.com/fbc32cc7-7bdb-408f-a9a7-7d55f9bc0566%2F1.png?v=1614200940775) no-repeat center center fixed; 
+  background-size:cover;
+  
+}
+
+h1 {
+  font-style: italic;
+  color: #aa6f73;
+}
+h2{
+   font-style: italic;
+  color: #aa6f73;
+  margin-right: 5%;
+  margin-left: 5%;
+  padding: auto;
+  text-align:left;
+}
+p{
+  color: #aa6f73;
+    line-height: 1.6;
+  margin-right: 5%;
+  margin-left: 5%;
+  padding: auto;
+  text-align:left;
+  font-size:20px;
+}
+a:link { 
+	font-weight: bold; 
+	text-decoration: none; 
+	color: #aa6f73;
+	}
+a:visited { 
+	font-weight: bold; 
+	text-decoration: none; 
+	color: #aa6f73;
+	}
+a:hover, a:focus, a:active { 
+	text-decoration: underline; 
+	color: #66545e;
+	}
+
+.menu {
+  text-align:center;
+  background: #f6e0b5;
+  padding:auto;
+  margin-right: 10%;
+  margin-left: 10%;
+}
+.center {
+  display: block;
+  margin: 250px auto;
+
+}
